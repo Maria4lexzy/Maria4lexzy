@@ -8,7 +8,7 @@ I recently graduated as a software Developer, I'm currently looking for career o
 - 🔭 Exploring new technolgies.
 - 🌱 Icontributing to the open source community.
 - 👯 I’m looking to collaborate on any type of project
-- 📫 How to reach me: check out my portfolio 🛄(https://maria-louisa.com/)
+- 📫 How to reach me: check out my portfolio [🛄](https://maria-louisa.com/)
 - ⚡ I'm a couch potato but you can easily convice me to go climb a mountain
       The highest peak I've climbed in 2864m in Slovenia (Triglav)
 
