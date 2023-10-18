@@ -9,8 +9,9 @@ I recently graduated as a software Developer, I'm currently looking for career o
 - 🌱 contributing to the open source community.
 - 👯 I’m looking to collaborate on any type of project
 - 📫 How to reach me: check out my portfolio [🛄](https://maria-louisa.com/)
-- ⚡ I'm a couch potato but you can easily convice me to go climb a mountain
-      The highest peak I've climbed in 2864m in Slovenia (Triglav)
+
+🥔Boring fact: I'm a couch potato but you can easily convice me to go hike on the mountains. The highest peak I've climbed is 2864m in Slovenia
+        (Triglav).
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Maria4lexzy)](https://github.com/Maria4lexzy/github-profile-trophy)
 
