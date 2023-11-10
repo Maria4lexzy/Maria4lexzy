@@ -12,7 +12,9 @@ I recently graduated as a software Developer, I'm currently looking for career o
 
 🥔Boring fact: I'm a couch potato but you can easily convice me to go hike on the mountains. The highest peak I've climbed is 2864m in Slovenia
         (Triglav).
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maria4lexzy)](https://github.com/Maria4lexzy/github-readme-stats)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Maria4lexzy)](https://github.com/Maria4lexzy/github-profile-trophy)
+
+### Weird Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria4lexzy)](https://github.com/Maria4lexzy/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maria4lexzy)](https://github.com/Maria4lexzy/github-profile-trophy)
 
 
